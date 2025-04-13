@@ -1,0 +1,6 @@
+if SHIELD_TEST
+
+config ZMK_TEST
+    default "test"
+
+endif
