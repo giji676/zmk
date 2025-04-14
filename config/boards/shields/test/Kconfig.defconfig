@@ -1,13 +1,7 @@
-# if SHIELD_TEST
-#
-# config ZMK_KEYBOARD_NAME
-#     default "test"
-#
-# endif
 if SHIELD_TEST_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "TEST"
+    default "KEEB676"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
