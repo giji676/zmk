@@ -1,4 +1,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: test
+    shield: test_left
+  - board: nice_nano_v2
+    shield: test_right
